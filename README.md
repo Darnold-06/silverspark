@@ -4,4 +4,4 @@
 #Jack
 #Skylen
 
-#The clors belnded well with the background
+#The colors belnded well with the background and the light buttons
